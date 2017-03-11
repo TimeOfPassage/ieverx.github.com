@@ -618,7 +618,7 @@ table {
     display: inline-block;
     *display: inline; /* IE < 8: fake inline-block */
     zoom: 1;
-    letter-spacing: normal;
+    letter-spacing: 0.15rem;
     word-spacing: normal;
     vertical-align: top;
     text-rendering: auto;

@@ -1,16 +1,16 @@
-title: 天外天
-tagline: 天外有天，山外有山
-description: 一个程序员的技术和生活
+title: 天行者
+tagline: 山本无忧,因雪白头
+description: 梦想的道路上总是充满荆棘,如果畏惧的话,又如何到达传说的彼岸,去看那最美的风景
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://blog.evercoding.net # the base hostname & protocol for your site
+url: http://tianxingzhe.xyz # the base hostname & protocol for your site
 
 author:
-  name: Ever
-  email: g.everax@gmail.com
-  github: iEverX
-  twitter: ieverx
-  weibo: ieverx
-start_year: 2012
+  name: TimeOfPassage
+  email: 1376246506@qq.com
+  github: TimeOfPassage
+  twitter: 
+  weibo: 
+start_year: 2017
 
 permalink: /:year/:month/:day/:title
 timezone: Asia/Shanghai
