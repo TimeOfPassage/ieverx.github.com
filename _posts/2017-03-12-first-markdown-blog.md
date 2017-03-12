@@ -43,9 +43,8 @@ published: true
 ### 2、文本样式
 * 链接 :`[Title](URL)`
 	[点击跳转百度](http://www.baidu.com)
-* 加粗 :**Bold**
+* 加粗 :`**Bold**`
 	**加粗效果**
-* 斜体字 :`*Italics*`
 	*斜体效果*
 * *删除线 :`~~text~~`
 	~~删除线效果~~
