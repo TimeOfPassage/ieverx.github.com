@@ -42,7 +42,7 @@ published: true
 
 ### 2、文本样式
 * 链接 :`[Title](URL)`
-[点击跳转百度](http://www.baidu.com)
+* [点击跳转百度](http://www.baidu.com)
 * 加粗 :**Bold**
 **加粗效果**
 * 斜体字 :*Italics*
