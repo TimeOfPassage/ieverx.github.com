@@ -17,7 +17,6 @@ published: true
  **特点**：轻量、简单、易用
 
  **开发者**：John Gruber
-
 ## Markdown语法
 
 ### 标题
