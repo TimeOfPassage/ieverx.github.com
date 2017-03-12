@@ -8,8 +8,6 @@ author:
   name: TimeOfPassage
   email: 1376246506@qq.com
   github: TimeOfPassage
-  twitter: 
-  weibo: 
 start_year: 2017
 
 permalink: /:year/:month/:day/:title
