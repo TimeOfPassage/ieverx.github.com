@@ -8,7 +8,7 @@ role: index
 <div class="posts">
     {% assign post = site.posts.first %}
     <section class="post-glance">
-        <header class="post-header">
+        <header class="post-header" style="margin-bottom: 30px;">
             <h2 class="post-title"><a href="{{ post.url | prepand: site.baseurl }}">{{ post.title }}</a></h2>
             <div class="post-meta">
                 <span>
@@ -84,11 +84,11 @@ role: index
         var spand = $('<span></span>').html('<i class="fa fa-calendar"></i> ' + post.meta.date);
         var spant = $('<span></span>').html('<i class="fa fa-tags"></i> ' + tags);
         var $meta = $('<div class="post-meta"></div>').append(spand).append(spant);
-        var $postHeader = $('<header class="post-header"></header>').append($postTitle).append($meta);
+        var $postHeader = $('<header class="post-header" style="margin-bottom: 30px;"></header>').append($postTitle).append($meta);
         var $postContent = $('<div class="post-content"></div>');
         var $post = $('<section class="post-glance"></section>').append($postHeader).append($postContent);
         //var $postExtra = $('<div class="post-extra"></div>').append($('<a href="' + post.url + '#ds-comment">添加/查看评论</a>'));
-        $('.posts').append($post).append($postExtra);
+        $('.posts').append($post);//.append($postExtra);
 
         $postContent.load(post.url + ' ' + '.post-content', function(res) {
             var children = $(res).find('.post-content').children();
