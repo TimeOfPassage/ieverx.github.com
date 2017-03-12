@@ -1,4 +1,4 @@
-# EverCoding.net
+# tianxinzhe.xyz
 
 A static blog built with [Jekyll][] on github pages
 
