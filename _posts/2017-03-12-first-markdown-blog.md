@@ -7,7 +7,6 @@ tags: ["Markdown","语法","简介"]
 ---
 
 
-emoji!:m:
 ## **一、Markdown简介**  
 
 
@@ -96,10 +95,11 @@ emoji!:m:
 
 
 ### **5.表格**
-|:居左对齐|:居中对齐|具右对齐|
-|left    |center|right|
-|a|b|c|
-|high|I|who|
+居左对齐|居中对齐|具右对齐
+:-------|:-------:|-----:
+left    |center|right
+a|b|c
+high|I|who
 
 
 [^1]: 脚注使用方法一  http://www.baidu.com
