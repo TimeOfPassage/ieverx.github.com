@@ -84,7 +84,7 @@ role: index
         var spand = $('<span></span>').html('<i class="fa fa-calendar"></i> ' + post.meta.date);
         var spant = $('<span></span>').html('<i class="fa fa-tags"></i> ' + tags);
         var $meta = $('<div class="post-meta"></div>').append(spand).append(spant);
-        var $postHeader = $('<header class="post-header" style="margin-bottom: 30px;"></header>').append($postTitle).append($meta);
+        var $postHeader = $('<header class="post-header" style="height:108px;border-bottom: 2px dashed #ccc;"></header>').append($postTitle).append($meta);
         var $postContent = $('<div class="post-content"></div>');
         var $post = $('<section class="post-glance"></section>').append($postHeader).append($postContent);
         //var $postExtra = $('<div class="post-extra"></div>').append($('<a href="' + post.url + '#ds-comment">添加/查看评论</a>'));
