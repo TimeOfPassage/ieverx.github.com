@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Markdown用法探索"
-tagline: "Markdown syntax"
-description: "Markdown的一些语法"
-tags: ["Markdown","语法","简介"]
+title: Markdown用法探索
+tagline: Markdown syntax
+description: Markdown的一些语法
+tags:
+  - Markdown
+  - 语法
+  - 简介
+published: true
 ---
-
 # 一、Markdown简介
 <br/>
 **Markdown**是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。
@@ -29,7 +32,7 @@ Markdown的语法简洁明了、学习容易，而且功能比纯文本更强，
 <br/>
 ## 1、标题
 
-<p>		标题能显示出文章的结构。行首插入1-6个 # ，每增加一个 # 表示更深入层次的内容，对应到标题的深度由 1-6 阶。  </p>
+<p> 标题能显示出文章的结构。行首插入1-6个 # ，每增加一个 # 表示更深入层次的内容，对应到标题的深度由 1-6 阶。  </p>
 
 > H1: # header1
 # H1
@@ -98,11 +101,6 @@ H6 ###### header6
 
 ## 4.脚注标注
 使用这样的占位符号可以将脚注添加到文本中[^1]. 另外，你可以使用“n”而不是数字的[^n]所以你可以不必担心使用哪个号码[^num]。在您的文章的结尾，你可以如下图所示定义匹配的注脚，URL将变成链接:
-
-脚注使用方法一：```[^1]```
-
-脚注使用方法二：```[^n]```
-
 <br>
 
 ## 5.表格显示
