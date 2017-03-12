@@ -27,17 +27,17 @@ published: true
 >标题能显示出文章的结构。行首插入1-6个 # ，每增加一个 # 表示更深入层次的内容，对应到标题的深度由 1-6 阶。  
 
 * H1> # header1
-# H1
+# header1
 * H2> ## header2
-## H2
+## header2
 * H3> ### header3
-### H3
+### header3
 * H4> #### header4
-#### H4
+#### header4
 * H5> ##### header5
-##### H5
+##### **H5**
 * H6> ###### header6
-###### H6
+###### header6
 
 
 ### 2、文本样式
