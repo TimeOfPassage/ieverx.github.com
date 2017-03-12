@@ -5,8 +5,9 @@ tagline: "Markdown syntax"
 description: "Markdown的一些语法"
 tags: ["Markdown","语法","简介"]
 ---
-:m:
 
+
+emoji!:m:
 ## **一、Markdown简介**  
 
 
