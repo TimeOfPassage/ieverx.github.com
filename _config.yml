@@ -23,13 +23,13 @@ kramdown:
   syntax_highlighter: rouge
 
 service:
-  comment: duoshuo
-  disqus:
-    short_name: evercoding
-  duoshuo: 
-    short_name: evercoding
-  google:
-    tracking_id : UA-54098391-1
+#  comment: duoshuo
+#  disqus:
+#    short_name: evercoding
+#  duoshuo: 
+#    short_name: evercoding
+#  google:
+#    tracking_id : UA-54098391-1
   baidu:
     num: ca3b5ccaaf58d27e2dd3ec55cd8ee711
 
