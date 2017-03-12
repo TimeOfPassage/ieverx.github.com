@@ -1,5 +1,5 @@
 {% if jekyll.environment == 'production' %}
-    {% if site.service.baidu.num != "286a0fd3582530031faa80f383f53a77" or site.url == 'http://blog.evercoding.net' %}
+    {% if site.service.baidu.num != "ca3b5ccaaf58d27e2dd3ec55cd8ee711" or site.url == 'http://tianxinzhe.xyz' %}
         <script>
             var _hmt = _hmt || [];
             (function() {

@@ -31,7 +31,7 @@ service:
   google:
     tracking_id : UA-54098391-1
   baidu:
-    num: 286a0fd3582530031faa80f383f53a77
+    num: ca3b5ccaaf58d27e2dd3ec55cd8ee711
 
 exclude: [README.md, CNAME]
   
