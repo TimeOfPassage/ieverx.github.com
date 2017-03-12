@@ -41,7 +41,7 @@ published: true
 
 
 ### 2、文本样式
-* 链接 :[Title](URL)
+* 链接 :`[Title](URL)`
 [点击跳转百度](http://www.baidu.com)
 * 加粗 :**Bold**
 **加粗效果**
@@ -63,6 +63,7 @@ published: true
  * 列表4
 * 引用 :> 引用内容
 > 这里是引用内容区域
+
 * 内嵌代码 : `alert('Hello World');`
 ```
    function show(){
