@@ -18,7 +18,6 @@ published: true
 
  **开发者**：John Gruber
 
-
 ## Markdown语法
 
 ### 标题
