@@ -19,12 +19,12 @@ tags: ["Linux", "内核", "编译源码"]
     sudo cp /path/to/file/linux-3.5-rc6.tar.bz2 /usr/src
     sudo tar jxvf linux-3.5-rc6
     cd linux-3.5-rc6/  # 进入源码的目录，以后所有操作均在该目录下完成
-    
+
 
 ### 二、删除之前编译的残留文件
 
     sudo make mrproper
- 
+
 如果是第一次编译的话，可以不用执行这一步。而如果之前曾经编译过，务必执行这一步，清除残留文件，否则可能会导致编译失败。
 
 ### 三、配置编译选项
@@ -83,7 +83,7 @@ xconfig用着最舒服，menugconfig也可以，不过界面难看了些。confi
 提示类似如"ubuntu run in a low-graphic mode","Your screen, graphic card, input devices cannot detected correctly. You need configure it yourself."等等。
 这时可以Ctrl-Alt-F1或者Alt-F1进入控制台，`sudo apt-get install gdm`之后选择gdm即可。如果还不能解决问题，对于ATI显卡，可以安装fglrx。由于我不是ATI的显卡，所以是否可行我就不是很清楚了。更具体的可以google之。
 
-[1]: http://syshack.blog.51cto.com/304393/144321/ 
+[1]: http://syshack.blog.51cto.com/304393/144321/
 [2]: http://bbs.chinaunix.net/thread-2264758-1-1.html
 [kernel]: http://kernel.org
 [金步国]: http://tmdnet.nothave.com/man/Linux%202_6_19_x%20%E5%86%85%E6%A0%B8%E7%BC%96%E8%AF%91%E9%85%8D%E7%BD%AE%E9%80%89%E9%A1%B9%E7%AE%80%E4%BB%8B.htm
