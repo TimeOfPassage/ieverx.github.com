@@ -2,7 +2,7 @@ title: 天行者-TimeOfPassage
 tagline: 山本无忧,因雪白头
 description: 梦想的道路上总是充满荆棘,如果畏惧的话,又如何到达传说的彼岸,去看那最美的风景
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: http://tianxingzhe.xyz # the base hostname & protocol for your site
+url: http://tianxinzhe.xyz # the base hostname & protocol for your site
 
 author:
   name: TimeOfPassage
@@ -26,7 +26,7 @@ service:
 #  comment: duoshuo
 #  disqus:
 #    short_name: evercoding
-#  duoshuo: 
+#  duoshuo:
 #    short_name: evercoding
 #  google:
 #    tracking_id : UA-54098391-1
@@ -34,4 +34,3 @@ service:
     num: ca3b5ccaaf58d27e2dd3ec55cd8ee711
 
 exclude: [README.md, CNAME]
-  
