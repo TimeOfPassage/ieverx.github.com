@@ -5,9 +5,9 @@ tagline: "Linux"
 description: "Linux操作"
 tags: ["Linux"]
 ---
-> 嫦娥应悔偷灵药，碧海青天夜夜心。
+> 嫦娥应悔偷灵药，碧海青天夜夜心。  
 >						--李商隐
-[风景秀丽](http://sc.jb51.net/uploads/allimg/150414/11-150414121036148.jpg)
+![风景秀丽](http://sc.jb51.net/uploads/allimg/150414/11-150414121036148.jpg)
 
 查看本地DNS配置
 > cat /etc/sysconfig/network-scripts/ifcfg-eth0
