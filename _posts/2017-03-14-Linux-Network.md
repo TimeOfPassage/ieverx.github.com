@@ -13,15 +13,15 @@ tags: ["Linux"]
 > cat /etc/sysconfig/network-scripts/ifcfg-eth0
 
 DEVICE=eth0  接口名（设备、网卡）  
-HWADDR=00:50:56:a2:2a:49  MAC地址   
+HWADDR=xx:xx:xx:xx:xx:xx MAC地址   
 TYPE=Ethernet 网络类型通常为Ethernet  
-UUID=2e11fc24-9bbc-46b7-9e97-78a210c00b49  唯一标示  
+UUID=2e11fc24-9bbc-46b7-9e97-xxxxxxxxx  唯一标示  
 ONBOOT=yes  (yes|no)系统启动的时候网络接口是否有效  
 NM_CONTROLLED=yes (yes|no)是否启用NetworkManager图形界面配置工具。  
 BOOTPROTO=none  [IP的配置方法(none|static|bootp|dhcp)(引导时不使用协议|静态非配IP|BOOTP协议|DHCP协议)]  
-IPADDR=10.50.161.33  IP地址  
+IPADDR=xxx.xxx.xxx.xxx  IP地址  
 NETMASK=255.255.255.0  网络掩码   
-GATEWAY=10.50.161.254  默认网关IP地址   
+GATEWAY=xxx.xxx.xxx.254  默认网关IP地址   
 IPV6INIT=no  (yes|no)IPV6是否有效
 USERCTL=no  [yes|no](非root用户是否可以控制该设备)
 
