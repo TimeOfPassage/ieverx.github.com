@@ -14,10 +14,8 @@ group: "navigation"
 
 ### 关于网站
 
-在这个网站，我会记录一些自己在编程时的一些思想、感悟、体会，分享自己编程的点点滴滴，也算是自己编程之路的一个个脚印吧。同时，可能还会有一些自己翻译的文章（当然英文不好，这个就是暂时放在这里）。此外，也可能会有一些自己的生活杂记。
-
-> 人类的欢乐和幸福来自于奋斗，而最有价值的是为理想而奋斗。 
->								苏格拉底
+> 人类的欢乐和幸福来自于奋斗，而最有价值的是为理想而奋斗。   
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--苏格拉底
 
 ### 联系我?
 
