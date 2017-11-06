@@ -70,13 +70,13 @@ dwr官网说明：配置dwr依赖需要配置[Sonatype's OSS repository](https:/
 
 1、打开IDEA，选择Java -> JavaEE -> `Web Application (3.1)` -> Version (3.1) -> `Create web.xml`
 
-![创建工程](../static/image/20171106/IDEA_create_dwrdemo.png)
+![创建工程](https://github.com/TimeOfPassage/timeofpassage.github.io/blob/master/static/image/20171106/IDEA_create_dwrdemo.png)
 
 然后点击`Next`
 
 2、工程命名+路径选择
 
-![工程命名+路径选择](../static/image/20171106/IDEA_project_named.png)
+![工程命名+路径选择](https://github.com/TimeOfPassage/timeofpassage.github.io/blob/master/static/image/20171106/IDEA_project_named.png)
 
 #### 第三步：引入Jar包+配置工程访问路径+新建Java类+dwr.xml文件配置
 
@@ -195,7 +195,7 @@ b.在WEB-INF目录下新建`dwr.xml`配置文件，内容如下：
 
 #### 第五步：实现效果
 
-![效果图](../static/image/20171106/IDEA_program_result.png)
+![效果图](https://github.com/TimeOfPassage/timeofpassage.github.io/blob/master/static/image/20171106/IDEA_program_result.png)
 
 
 
